@@ -1,0 +1,5 @@
+mode: set
+github.com/juanmaav92/testing/main.go:3.28,5.2 1 1
+github.com/juanmaav92/testing/main.go:7.27,8.11 1 0
+github.com/juanmaav92/testing/main.go:8.11,10.3 1 0
+github.com/juanmaav92/testing/main.go:11.2,11.10 1 0
